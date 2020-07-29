@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "587536535210",
+    "firebase_url": "https://baleadas-5de05.firebaseio.com",
+    "project_id": "baleadas-5de05",
+    "storage_bucket": "baleadas-5de05.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:587536535210:android:c9b0c7bad95d6ac145cad3",
+      "android_client_info": {
+        "package_name": "com.example.baleadas"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "587536535210-4k0c2jtj69a1oc19pjbjtimr8sjb02cg.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyA7jSl-XGBitCfE5mT-7GcPmx0nIU_-mb0"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "587536535210-4k0c2jtj69a1oc19pjbjtimr8sjb02cg.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
